@@ -1171,22 +1171,21 @@ form label {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 3em;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
 }
 .fh5co-heading h2 {
-  font-size: 60px;
+  font-size: 37px;
   margin-bottom: 10px;
-  line-height: 1.5;
-  font-weight: bold;
+  line-height: 1.0;
   color: #F14E95;
   font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
-    font-size: 40px;
+    font-size: 28px;
   }
 }
 .fh5co-heading p {
